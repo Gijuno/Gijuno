@@ -1,7 +1,6 @@
 ![header](https://img.freepik.com/free-vector/realistic-beautiful-sea-view-summer-vacation-concept_1262-11902.jpg) 
 # Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br>
 ## 🧑🏻‍💻 I am ..
 *  <img src="https://dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Studnet
 
