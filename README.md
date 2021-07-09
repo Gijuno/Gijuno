@@ -47,8 +47,8 @@
 
 ## 📱 Contact me ..!
 <p align="center">
-	<a href="https://naver.com">
-		<img alt="Telegram" onClick="javascript:location.href='https://naver.com'" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white	"/> 
+	<a href="https://naver.com" target="_blank">
+		<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white	"/> 
 	</a>
 	 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 	
