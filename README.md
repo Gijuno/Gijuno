@@ -2,6 +2,7 @@
 # Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🧑🏻‍💻 I am ..
+* 18 years old (in East Asian age reckoning)
 *  <img src="https://dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Studnet
 
 ## 💼 I work at ..
@@ -46,6 +47,9 @@
 
 ## 📱 Contact me ..!
 <p align="center">
-	<img alt="Telegram" onClick="javascript:location.href='https://naver.com'" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white	"/>  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+	<a href="https://naver.com">
+		<img alt="Telegram" onClick="javascript:location.href='https://naver.com'" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white	"/> 
+	</a>
+	 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 	
 </p>
