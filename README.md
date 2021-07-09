@@ -47,9 +47,16 @@
 
 ## 📱 Contact me ..!
 <p align="center">
-	<a href="https://naver.com" target="_blank">
+	<a href="https://discord.com/users/325845735692173323" target="_blank">
+		<img alt="Telegram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
+	</a>
+	<a href="https://www.facebook.com/profile.php?id=100014822836144" target="_blank">
+		<img alt="Telegram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> 
+	</a>
+	<a href="https://t.me/gijuno" target="_blank">
 		<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
 	</a>
-	 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-	
+	<a href="itx.ljh.developer@gmail.com" target="_blank">
+		<img alt="Telegram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+	</a>
 </p>
