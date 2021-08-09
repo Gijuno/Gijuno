@@ -6,7 +6,7 @@
 *  <img src="https://www.dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Studnet
 
 ## 💼 I work at ..
-* <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/87018365_2773050062811228_3222109565248077824_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=rpB2dvjb7zUAX8Ko8ZN&_nc_ht=scontent-ssn1-1.xx&oh=176cdf8bb08ac0121e33503cab982521&oe=60EEB90A" width="14px"> Android Developer Club [IMPLUDE](https://implude.com/)
+* <img src="https://avatars.githubusercontent.com/u/54441290" width="14px"> Android Developer Club [IMPLUDE](https://github.com/implude)
 * <img src="https://dimigo.in/static/icons/favicon-96x96.png" width="13px"> School Intranet Android Developer Team [DIMIGOIN](https://github.com/dimigoin)
 * <img src="https://avatars.githubusercontent.com/u/84033302" width="13px"> School Meals Self-governing Volunteer Organization Developer Team [DIENEN](https://github.com/dienen-dev)
 
