@@ -1,7 +1,7 @@
 # Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🧑🏻‍💻 I am ..
-* 18 years old (in East Asian age)
+* 19 years old (in East Asian age)
 *  <img src="https://www.dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Studnet
 
 ## 💼 I work at ..
