@@ -7,7 +7,7 @@
 ## 💼 I work at ..
 * <img src="https://avatars.githubusercontent.com/u/54441290" width="14px"> Android Developer Club [IMPLUDE](https://github.com/implude)
 * <img src="https://dimigo.in/static/icons/favicon-96x96.png" width="13px"> School Intranet Android Developer Team [DIMIGOIN](https://github.com/dimigoin)
-* <img src="https://avatars.githubusercontent.com/u/84033302" width="13px"> School Meals Self-governing Volunteer Organization Developer Team [DIENEN](https://github.com/dienen-dev)
+* <img src="https://avatars.githubusercontent.com/u/84033302" width="13px"> School Meals Self-governing Volunteer Organization Developer Team [DIENEN](https://github.com/dienen-dev) [Service Expired]
 
 ## 📜 My moto is ..
 > 어제보다 못한 오늘이 되지 말자 <br>
