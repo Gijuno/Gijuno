@@ -20,6 +20,7 @@
 ## 📊 My Status is ..
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gijuno&count_private=true&show_icons=true&bg_color=angle,4BC4E5,4BC4E5,B4DBE5,EACE97,EACE97&title_color=FFFFFF&text_color=ECF4FF&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gijuno&langs_count=10&count_private=true&show_icons=true&bg_color=angle,4BC4E5,4BC4E5,B4DBE5,EACE97,EACE97&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://opgc.me/#/users/gijuno" target="_blank"><img src="https://api.opgc.me/githubs/users/gijuno/tag/?theme=basic" /></a>
 
 ## 📱 Contact me ..!
 <p align="center">
