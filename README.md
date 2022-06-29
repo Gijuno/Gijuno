@@ -7,17 +7,12 @@
 ## 💼 My Portfolio is ..
 * [이준호 (Gijuno) - 안드로이드 개발자](https://gijuno-me.notion.site/Gijuno-3209d9971ed044e8b4c78c70fe9dbbe3)
 
-## 📜 My moto is ..
-> 어제보다 못한 오늘이 되지 말자 <br>
-> Never be worse today than yesterday.
-
 ## 🥰 I'm interested in ..
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="SwiftUI" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
 
 ## 📊 My Status is ..
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gijuno&count_private=true&show_icons=true&bg_color=angle,4BC4E5,4BC4E5,B4DBE5,EACE97,EACE97&title_color=FFFFFF&text_color=ECF4FF&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gijuno&langs_count=10&count_private=true&show_icons=true&bg_color=angle,4BC4E5,4BC4E5,B4DBE5,EACE97,EACE97&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://opgc.me/#/users/gijuno" target="_blank"><img src="https://api.opgc.me/githubs/users/gijuno/tag/?theme=basic" /></a>
 
 ## 📱 Contact me ..!
 <p align="center">
