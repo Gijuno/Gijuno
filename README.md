@@ -3,7 +3,7 @@
 ## 🧑🏻‍💻 I am ..
 * 19 years old (in East Asian age)
 *  <img src="https://www.dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Student
-* <img src="https://avatars.githubusercontent.com/u/44943237" width="11px"> Indent Corp. Spray App Developer (FrontEnd)
+* <img src="https://avatars.githubusercontent.com/u/44943237" width="11px"> Indent Corp. Spray App Developer
 
 ## 💼 My Portfolio is ..
 * [이준호 (Gijuno) - 안드로이드 개발자](https://gijuno-me.notion.site/Gijuno-3209d9971ed044e8b4c78c70fe9dbbe3)
