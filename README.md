@@ -1,7 +1,7 @@
 # Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🧑🏻‍💻 I am ..
-* 19 years old (in East Asian age)
+* 20 years old (in East Asian age)
 *  <img src="https://www.dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Student
 * <img src="https://avatars.githubusercontent.com/u/44943237" width="11px"> Indent Corp. Spray App Developer
 
