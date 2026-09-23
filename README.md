@@ -1,7 +1,7 @@
 # Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🧑🏻‍💻 I am ..
-* <img src="https://www.dimigo.hs.kr/files/attach/xeicon/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Student ('20 ~ '23)
+* <img src="https://dimigo-h.goeas.kr/images/web/dimigo-h/common/favicon.ico" width="11px"> Korea Digital Media High School Web Programming Department 19th Student ('20 ~ '23)
 * <img src="https://avatars.githubusercontent.com/u/44943237" width="11px"> Indent Corp. Spray Developer ('22 ~ )
 
 ## 💼 My Portfolio is ..
